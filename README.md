@@ -1,4 +1,4 @@
-![Uploading amazon-clone-screenshot.png.png…]()
+<img width="1148" height="2314" alt="amazon-clone-screenshot png" src="https://github.com/user-attachments/assets/1b20a270-5968-4bed-ac1f-f2bef4d34df2" />
 
 ## 🛠️ Technologies Used
 

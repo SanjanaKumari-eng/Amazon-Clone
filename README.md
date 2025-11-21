@@ -1,3 +1,4 @@
+![Uploading amazon-clone-screenshot.png.png…]()
 
 ## 🛠️ Technologies Used
 
